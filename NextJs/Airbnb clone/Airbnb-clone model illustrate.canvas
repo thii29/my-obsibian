@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"42022eb0c43b20c1","type":"text","text":"**Listing**\nid\nuserId","x":220,"y":-315,"width":180,"height":90},
+		{"id":"98703bc3e214e6ab","type":"text","text":"fields: [listingId], references: [id]","x":60,"y":-510,"width":190,"height":60},
+		{"id":"073c44ed769aa148","type":"text","text":"fields: [userId], references: [id]","x":0,"y":-300,"width":180,"height":60},
+		{"id":"4df92e5ca27debc9","type":"text","text":"**User**\nid","x":-225,"y":-300,"width":140,"height":60},
+		{"id":"dec9d062ddf6111a","type":"text","text":"**Account**\nid\nuserId\n","x":-245,"y":-100,"width":180,"height":100},
+		{"id":"6ec9f4b60f4c622d","type":"text","text":"fields: [userId], references: [id]","x":-315,"y":-180,"width":180,"height":60},
+		{"id":"329b33845087746f","type":"text","text":"fields: [userId], references: [id]","x":-315,"y":-420,"width":180,"height":60},
+		{"id":"eea1f7dea0d92227","type":"text","text":"**Reservation**\nid\nuserId\nlistingId","x":-252,"y":-570,"width":195,"height":120}
+	],
+	"edges":[
+		{"id":"de630ce18e29c7bf","fromNode":"dec9d062ddf6111a","fromSide":"top","toNode":"4df92e5ca27debc9","toSide":"bottom"},
+		{"id":"64d867090c27b951","fromNode":"eea1f7dea0d92227","fromSide":"bottom","toNode":"4df92e5ca27debc9","toSide":"top"},
+		{"id":"debdbd2cb3301d1c","fromNode":"42022eb0c43b20c1","fromSide":"left","toNode":"4df92e5ca27debc9","toSide":"right"},
+		{"id":"1aeff84bcf787fe3","fromNode":"eea1f7dea0d92227","fromSide":"right","toNode":"42022eb0c43b20c1","toSide":"top"}
+	]
+}

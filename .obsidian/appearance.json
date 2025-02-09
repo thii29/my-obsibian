@@ -1,0 +1,11 @@
+{
+  "accentColor": "#f9d267",
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "nativeMenus": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-background"
+  ]
+}

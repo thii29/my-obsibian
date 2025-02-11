@@ -7,5 +7,6 @@
   "enabledCssSnippets": [
     "extended-colorschemes",
     "custom-background"
-  ]
+  ],
+  "showRibbon": true
 }

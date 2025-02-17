@@ -11,10 +11,24 @@
             "id": "d3d0c18dcd48adae",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IIIA - handleSubmit"
             }
           }
         ]
@@ -197,9 +211,12 @@
       "cmdr:Toggle pin": false
     }
   },
-  "active": "3e97792f4ddc3577",
+  "active": "d3d0c18dcd48adae",
   "lastOpenFiles": [
+    "III. ReactJs/React-Hook-Form/IIIA - register.md",
+    "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
     "IV. NextJs/Airbnb clone/Code flow.md",
+    "III. ReactJs/React-Hook-Form",
     "IV. NextJs/NextAuth.Js.md",
     "Need to do.md",
     "V. State management/Zustand.md",
@@ -233,15 +250,12 @@
     "II. JavaScript/II - 0b. Value types & Reference types.md",
     "II. JavaScript/II - 6. Functions.md",
     "II. JavaScript/II - 0. Data types.md",
-    "I. HTML - CSS/CSS/I - 0. CSS Box Model.md",
-    "I. HTML - CSS/HTML/I - 0. HTML Data Attribute.md",
     "III. ReactJs/img/project-img/delete product in cart.png",
     "III. ReactJs/img/useContext.jpg",
     "III. ReactJs/img/project-img/add-cart.png",
     "III. ReactJs/img/project-img/register.png",
     "III. ReactJs/img/III - 0g. useCallback",
     "III. ReactJs/img/project-img/III - 0g. useCallback.crswap",
-    "III. ReactJs/img/project-img/III - 0g. useCallback",
     "III. ReactJs/img/project-img/login.png",
     "III. ReactJs/img/project-img/login flow.png",
     "II. JavaScript/img/valuetype-and-referencetype.png",

@@ -1,5 +1,6 @@
 ## Register
 #### Register by email & password
+- User click on Sign up -> form Register show ->fill infor -> click 'Continue'
 #### Register with GG & Github
 ## Login
 #### Login by email & password

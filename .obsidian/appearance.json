@@ -8,5 +8,6 @@
     "extended-colorschemes",
     "custom-background"
   ],
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 14
 }

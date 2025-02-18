@@ -9,3 +9,9 @@
 	→ Render nhanh hơn với Virtual Dom.
 	→ Sử dụng cú pháp JSX (Là yếu tố kết hợp của Javascript, HTML) như một tính năng bổ sung của React để tăng tốc độ phát triển.
 	→ Thân thiện với SEO: tương thích với SEO nhiều hơn thông qua việc hỗ trợ server-side rendering* thay vì các trang web dùng JS thông thường.
+5. Tại sao cần sử dụng [[React-Hook-Form]]
+	→ Hiệu suất tối ưu: giảm số lượng re-rendế khi người dùng gõ vào các trường biểu mẫu → nhập liệu nhanh hơn, ít tốn tài nguyên hơn.
+	→ Dễ dàng tích hợp
+	→ Validation ease
+	→ Tương thích tốt: hỗ trợ các thư viện phổ bién như Material-UI, Ant design, Chakra UI,...
+	→ Hỗ trợ Typescript

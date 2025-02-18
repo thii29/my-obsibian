@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10f020e188a4bc92",
+        "id": "4cd5a79e6c6aef48",
         "type": "tabs",
         "children": [
           {
-            "id": "d3d0c18dcd48adae",
+            "id": "9de266fc25a69425",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VI. Data Management Tools/VI - 0. ORM.md",
-                "mode": "preview",
+                "file": "X. Review question/Review ReactJs.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VI - 0. ORM"
+              "title": "Review ReactJs"
             }
           }
         ]
@@ -174,9 +174,19 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "d21fae19cd1ff49b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "8d4e59fe17996da0",
@@ -211,14 +221,18 @@
       "cmdr:Toggle pin": false
     }
   },
-  "active": "d3d0c18dcd48adae",
+  "active": "9de266fc25a69425",
   "lastOpenFiles": [
-    "VI. Data Management Tools/Prisma/VI - Prisma.md",
+    "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
+    "X. Review question/Review ReactJs.md",
+    "IV. NextJs/Airbnb clone/Code flow.md",
+    "III. ReactJs/React-Hook-Form/IIIA . formState.md",
+    "III. ReactJs/React-Hook-Form/IIIA - setValue.md",
     "VI. Data Management Tools/VI - 0. ORM.md",
+    "VI. Data Management Tools/Prisma/VI - Prisma.md",
     "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
     "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
     "III. ReactJs/React-Hook-Form/IIIA - register.md",
-    "IV. NextJs/Airbnb clone/Code flow.md",
     "III. ReactJs/React-Hook-Form",
     "IV. NextJs/NextAuth.Js.md",
     "Need to do.md",
@@ -242,14 +256,10 @@
     "IV. NextJs/Airbnb clone",
     "III. ReactJs/III - 1. Lifecycle.md",
     "IV. NextJs",
-    "X. Review question/Review ReactJs.md",
     "III. ReactJs/III - 0g. useCallback.md",
     "III. ReactJs/III - 0h. useMemo.md",
     "III. ReactJs/III - 0. React Hooks.md",
     "II. JavaScript/II - 7. var, let, const & hoisting.md",
-    "X. Review question/Review Javascript.md",
-    "X. Review question/Review HTML - CSS.md",
-    "X. Review question/Review general.md",
     "III. ReactJs/img/project-img/delete product in cart.png",
     "III. ReactJs/img/useContext.jpg",
     "III. ReactJs/img/project-img/add-cart.png",

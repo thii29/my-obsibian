@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
-                "mode": "source",
+                "file": "VI. Data Management Tools/VI - 0. ORM.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "IIIA - handleSubmit"
+              "title": "VI - 0. ORM"
             }
           }
         ]
@@ -213,8 +213,11 @@
   },
   "active": "d3d0c18dcd48adae",
   "lastOpenFiles": [
-    "III. ReactJs/React-Hook-Form/IIIA - register.md",
+    "VI. Data Management Tools/Prisma/VI - Prisma.md",
+    "VI. Data Management Tools/VI - 0. ORM.md",
     "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
+    "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
+    "III. ReactJs/React-Hook-Form/IIIA - register.md",
     "IV. NextJs/Airbnb clone/Code flow.md",
     "III. ReactJs/React-Hook-Form",
     "IV. NextJs/NextAuth.Js.md",
@@ -247,9 +250,6 @@
     "X. Review question/Review Javascript.md",
     "X. Review question/Review HTML - CSS.md",
     "X. Review question/Review general.md",
-    "II. JavaScript/II - 0b. Value types & Reference types.md",
-    "II. JavaScript/II - 6. Functions.md",
-    "II. JavaScript/II - 0. Data types.md",
     "III. ReactJs/img/project-img/delete product in cart.png",
     "III. ReactJs/img/useContext.jpg",
     "III. ReactJs/img/project-img/add-cart.png",

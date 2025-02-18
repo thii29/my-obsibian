@@ -1,6 +1,6 @@
  `</> handleSubmit:` `((data: Object, e?: Event) => Promise<void>, (errors: Object, e?: Event) => Promise<void>) => Promise<void>`
 
-- This function will receive the form data if from validation is successfull.
+- This function will receive the form data if form validation is successful.
 
 ### Props
 |Name|Type|Description|
@@ -12,7 +12,6 @@
 - Easily submit form asynchronously with handleSubmit.
 ```
 handleSubmit(onSubmit)()
-
 
 // You can pass an async function for asynchronous validation.
 handleSubmit(async (data) => await fetchAPI(data))

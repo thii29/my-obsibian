@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd5a79e6c6aef48",
+        "id": "c971c6face42d194",
         "type": "tabs",
         "children": [
           {
-            "id": "9de266fc25a69425",
+            "id": "626440cf232f9de1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X. Review question/Review ReactJs.md",
-                "mode": "source",
+                "file": "IV. NextJs/Airbnb clone/Code flow.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Review ReactJs"
+              "title": "Code flow"
             }
           }
         ]
@@ -97,7 +97,7 @@
       {
         "id": "a17043805fc6a238",
         "type": "tabs",
-        "dimension": 54.67455621301775,
+        "dimension": 57.66738660907127,
         "children": [
           {
             "id": "07665c496a28d5d5",
@@ -169,29 +169,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "IV. NextJs/Airbnb clone/Code flow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
-            }
-          },
-          {
-            "id": "d21fae19cd1ff49b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Code flow"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "8d4e59fe17996da0",
         "type": "tabs",
-        "dimension": 45.32544378698225,
+        "dimension": 42.33261339092873,
         "children": [
           {
             "id": "36dd81f4564af09c",
@@ -221,24 +214,32 @@
       "cmdr:Toggle pin": false
     }
   },
-  "active": "9de266fc25a69425",
+  "active": "626440cf232f9de1",
   "lastOpenFiles": [
-    "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
-    "X. Review question/Review ReactJs.md",
+    "III. ReactJs/Shopee Clone.md",
     "IV. NextJs/Airbnb clone/Code flow.md",
-    "III. ReactJs/React-Hook-Form/IIIA . formState.md",
+    "IV. NextJs/Airbnb clone/Untitled.canvas",
+    "IV. NextJs/Airbnb clone/flow chart",
+    "IV. NextJs/Airbnb clone/flow chart/register-flow.png",
+    "III. ReactJs/img/project-img/delete product in cart.png",
+    "III. ReactJs/img/project-img/register.png",
+    "III. ReactJs/img/project-img/productsList.png",
+    "III. ReactJs/img/project-img/add-cart.png",
+    "IV. NextJs/Airbnb clone/Airbnb-clone model illustrate.canvas",
     "III. ReactJs/React-Hook-Form/IIIA - setValue.md",
-    "VI. Data Management Tools/VI - 0. ORM.md",
-    "VI. Data Management Tools/Prisma/VI - Prisma.md",
-    "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
+    "III. ReactJs/React-Hook-Form/IIIA . formState.md",
+    "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
     "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
     "III. ReactJs/React-Hook-Form/IIIA - register.md",
+    "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
+    "X. Review question/Review ReactJs.md",
+    "VI. Data Management Tools/VI - 0. ORM.md",
+    "VI. Data Management Tools/Prisma/VI - Prisma.md",
     "III. ReactJs/React-Hook-Form",
     "IV. NextJs/NextAuth.Js.md",
     "Need to do.md",
     "V. State management/Zustand.md",
     "0. General knowledge/0 - 3. Module Bundlers.md",
-    "IV. NextJs/Airbnb clone/Airbnb-clone model illustrate.canvas",
     "V. State management/TanStack Query (React Query).md",
     "V. State management",
     "VI. Data Management Tools/Prisma",
@@ -250,8 +251,6 @@
     "0. General knowledge/0 - 0. Tree shaking.md",
     "0. General knowledge/0 - 2.  What is cookie? (Cookie là gì?).md",
     "III. ReactJs/III - 0c. useContext.md",
-    "III. ReactJs/Shopee Clone.md",
-    "III. ReactJs/img/project-img/productsList.png",
     "NextJs/Airbnb clone/model",
     "IV. NextJs/Airbnb clone",
     "III. ReactJs/III - 1. Lifecycle.md",
@@ -259,16 +258,10 @@
     "III. ReactJs/III - 0g. useCallback.md",
     "III. ReactJs/III - 0h. useMemo.md",
     "III. ReactJs/III - 0. React Hooks.md",
-    "II. JavaScript/II - 7. var, let, const & hoisting.md",
-    "III. ReactJs/img/project-img/delete product in cart.png",
     "III. ReactJs/img/useContext.jpg",
-    "III. ReactJs/img/project-img/add-cart.png",
-    "III. ReactJs/img/project-img/register.png",
     "III. ReactJs/img/III - 0g. useCallback",
-    "III. ReactJs/img/project-img/III - 0g. useCallback.crswap",
     "III. ReactJs/img/project-img/login.png",
     "III. ReactJs/img/project-img/login flow.png",
-    "II. JavaScript/img/valuetype-and-referencetype.png",
-    "II. JavaScript/img/Screenshot 2024-11-19 at 10.50.39.png"
+    "II. JavaScript/img/valuetype-and-referencetype.png"
   ]
 }

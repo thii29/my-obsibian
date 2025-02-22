@@ -9,8 +9,10 @@
 See theory and flow at: [[NextAuth.Js]]
 ## Add Listing
 User click "Airbnb your/my home" -> show Rent modal -> fill form -> submit -> request ('/api/listings', data) -> take data from body -> create listing & save to database -> return response listings -> refesh router, reset modal, step step back to 0, close rent modal
+![[add-listings-flow.png]]
 ## Add favorites / Unfavorites
-
+User click on Heart Button -> invoke toggleFavorite from useFavorite -> check user login ? 'yes' : 'no' -> no, show login modal. yes, check liked or not ? 'yes': 'no'-> yes, delete from favorited list. no, add to favorited list -> handle complete -> refresh router, toast success & change color of Heart Button
+![[add:delete favorite-id.png]]
 ## Booking
 ## Cancel booking
 ## Cancel guest reservation

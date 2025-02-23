@@ -14,7 +14,11 @@ User click "Airbnb your/my home" -> show Rent modal -> fill form -> submit -> re
 User click on Heart Button -> invoke toggleFavorite from useFavorite -> check user login ? 'yes' : 'no' -> no, show login modal. yes, check liked or not ? 'yes': 'no'-> yes, delete from favorited list. no, add to favorited list -> handle complete -> refresh router, toast success & change color of Heart Button
 ![[add:delete favorite-id.png]]
 ## Booking
+User choose start date & end date -> click Reserve ->server handle info-> direct to My trips page and show success
+![[booking-flow.png]]
 ## Cancel booking
+At trip pages, user click on 'cancel reservation'->invoke onCancel function->send request to server-> server check, delete and response -> show noti
+![[cancel-booking-flow.png]]
 ## Cancel guest reservation
 ## Delete properties
 ## Filter location by condition

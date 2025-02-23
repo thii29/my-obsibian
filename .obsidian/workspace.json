@@ -216,12 +216,16 @@
   },
   "active": "4b5cc0ad355e1d11",
   "lastOpenFiles": [
+    "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png.crswap",
+    "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png",
+    "IV. NextJs/Airbnb clone/flow chart/add:delete favorite-id.png",
+    "IV. NextJs/Airbnb clone/flow chart/booking-flow.png",
+    "IV. NextJs/Airbnb clone/Code flow.md",
     "IV. NextJs/Airbnb clone/flow chart/add-listings-flow.png",
     "III. ReactJs/React-Hook-Form/IIIA - formState.md",
     "III. ReactJs/React-Hook-Form/IIIA - watch.md",
     "III. ReactJs/React-Hook-Form/IIIA - reset.md",
     "III. ReactJs/img/useContext.jpg",
-    "IV. NextJs/Airbnb clone/Code flow.md",
     "IV. NextJs/NextAuth.Js.md",
     "IV. NextJs/img/oauth-flow.png",
     "IV. NextJs/img",
@@ -233,8 +237,6 @@
     "IV. NextJs/Airbnb clone/flow chart/register-flow.png",
     "III. ReactJs/img/project-img/delete product in cart.png",
     "III. ReactJs/img/project-img/register.png",
-    "III. ReactJs/img/project-img/productsList.png",
-    "III. ReactJs/img/project-img/add-cart.png",
     "III. ReactJs/React-Hook-Form/IIIA - setValue.md",
     "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
     "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
@@ -252,7 +254,6 @@
     "VI. Data Management Tools/Prisma",
     "VI. Data Management Tools/MongoDB",
     "VI. Data Management Tools",
-    "0. General knowledge/webpack.png",
     "0. General knowledge/0 - 1. What is authentication? What is authorization?.md",
     "0. General knowledge/0 - 0a. Dependency graph.md",
     "0. General knowledge/0 - 0. Tree shaking.md",
@@ -262,7 +263,6 @@
     "IV. NextJs/Airbnb clone",
     "III. ReactJs/III - 1. Lifecycle.md",
     "IV. NextJs",
-    "III. ReactJs/III - 0g. useCallback.md",
-    "III. ReactJs/img/project-img/login.png"
+    "III. ReactJs/III - 0g. useCallback.md"
   ]
 }

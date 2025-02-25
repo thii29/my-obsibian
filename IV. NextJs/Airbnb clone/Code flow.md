@@ -20,5 +20,10 @@ User choose start date & end date -> click Reserve ->server handle info-> direct
 At trip pages, user click on 'cancel reservation'->invoke onCancel function->send request to server-> server check, delete and response -> show noti
 ![[cancel-booking-flow.png]]
 ## Cancel guest reservation
+At page My reservations, click on 'Cancel guest reservation' -> invoke action onCancel -> get id & setDeleting ID -> send request to server with method DELETE-> server check user ID, take id from params, check it -> delete in database-> return response
+![[cancel-guest reser-flow.png]]
 ## Delete properties
+![[delete-properties-flow.png]]
 ## Filter location by condition
+Click on search bar in header menu -> show search modal -> fill full infor -> click on submit-> init current query at the moment -> update currentQuery with these value: location, guestCount, roomCount, bathroomCount, dateRange(after parse to ISO)-> direct to url by route.push. At home page show filter info by getListings(searchParams)
+![[filter-flow.png]]

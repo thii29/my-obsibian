@@ -97,7 +97,7 @@
       {
         "id": "a17043805fc6a238",
         "type": "tabs",
-        "dimension": 57.66738660907127,
+        "dimension": 45.72538860103627,
         "children": [
           {
             "id": "07665c496a28d5d5",
@@ -184,7 +184,7 @@
       {
         "id": "8d4e59fe17996da0",
         "type": "tabs",
-        "dimension": 42.33261339092873,
+        "dimension": 54.274611398963735,
         "children": [
           {
             "id": "36dd81f4564af09c",
@@ -216,11 +216,17 @@
   },
   "active": "4b5cc0ad355e1d11",
   "lastOpenFiles": [
+    "IV. NextJs/Airbnb clone/flow chart/delete-properties-flow.png",
+    "IV. NextJs/Airbnb clone/flow chart/filter-flow.png.crswap",
+    "IV. NextJs/Airbnb clone/flow chart/filter-flow.png",
+    "III. ReactJs/Shopee Clone.md",
+    "IV. NextJs/Airbnb clone/Code flow.md",
+    "IV. NextJs/Airbnb clone/flow chart/cancel-guest reser-flow.png.crswap",
+    "IV. NextJs/Airbnb clone/flow chart/cancel-guest reser-flow.png",
     "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png.crswap",
     "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png",
     "IV. NextJs/Airbnb clone/flow chart/add:delete favorite-id.png",
     "IV. NextJs/Airbnb clone/flow chart/booking-flow.png",
-    "IV. NextJs/Airbnb clone/Code flow.md",
     "IV. NextJs/Airbnb clone/flow chart/add-listings-flow.png",
     "III. ReactJs/React-Hook-Form/IIIA - formState.md",
     "III. ReactJs/React-Hook-Form/IIIA - watch.md",
@@ -231,12 +237,9 @@
     "IV. NextJs/img",
     "IV. NextJs/Airbnb clone/flow chart/login-flow.png",
     "IV. NextJs/Airbnb clone/Airbnb-clone model illustrate.canvas",
-    "III. ReactJs/Shopee Clone.md",
     "IV. NextJs/Airbnb clone/Untitled.canvas",
     "IV. NextJs/Airbnb clone/flow chart",
     "IV. NextJs/Airbnb clone/flow chart/register-flow.png",
-    "III. ReactJs/img/project-img/delete product in cart.png",
-    "III. ReactJs/img/project-img/register.png",
     "III. ReactJs/React-Hook-Form/IIIA - setValue.md",
     "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
     "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
@@ -259,10 +262,7 @@
     "0. General knowledge/0 - 0. Tree shaking.md",
     "0. General knowledge/0 - 2.  What is cookie? (Cookie là gì?).md",
     "III. ReactJs/III - 0c. useContext.md",
-    "NextJs/Airbnb clone/model",
-    "IV. NextJs/Airbnb clone",
     "III. ReactJs/III - 1. Lifecycle.md",
-    "IV. NextJs",
     "III. ReactJs/III - 0g. useCallback.md"
   ]
 }

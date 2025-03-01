@@ -9,4 +9,6 @@
 	- Tối ưu hoá font chữ: sử dụng font từ hệ thống thay vì từ các gói cài đặt bên ngoài.
 	- Giảm thiểu các tệp CSS & Javascript: loại bỏ đi các ký tự, các đoạn comment không cần thiết trong src code, ngoài ra có thể gộp các tệp CSS và Js thành các bản nhỏ hơn giúp giảm thời gian tải trang.
 	- Giảm thiểu tính toàn vẹn của CSS & JS: loại bỏ các chức năng không cần thiết, sử dụng các gói thư viện nhỏ hơn hoặc chỉ sử dụng những phần cần thiết để giảm dung lượng tệp & tốc độ tải trang.
-
+8. Eventloop?
+	Là một cơ chế cho phép xử lý các tác vụ bất đồng bộ trong JS, sử dụng vòng lặp vô tận để kiểm tra, quản lý các tác vụ. Mặc dù là single-thread (tại một thời điểm chỉ thực hiện một tác vụ duy nhất), nhưng JS có thể xử lý nhiều tác vụ cùng lúc.
+	Đọc: https://200lab.io/blog/event-loop-la-gi

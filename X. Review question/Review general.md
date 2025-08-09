@@ -12,3 +12,9 @@
 8. Eventloop?
 	Là một cơ chế cho phép xử lý các tác vụ bất đồng bộ trong JS, sử dụng vòng lặp vô tận để kiểm tra, quản lý các tác vụ. Mặc dù là single-thread (tại một thời điểm chỉ thực hiện một tác vụ duy nhất), nhưng JS có thể xử lý nhiều tác vụ cùng lúc.
 	Đọc: https://200lab.io/blog/event-loop-la-gi
+9. What is CORS and how do you handle it in web applications?
+	CORS is a security feature that restricts web applications from making requests to a domain from different from the one which served the web page. To handle it, configure the server to include CORS headers like Access-Control-Allow-Origin in the response, specifying which domains are allowed to access the resources.
+10. What strategies would you employ to optimize the performancee of a web application?
+	Optimization strategies include minimizing and compressing assest (CSS. JavaScript, images), implementing lazy loading for images and components, using CDN for static aassest, optimizing CSS selectors, and leveraging browser caching.
+11. What are the SEO challenges with SPAs and how can they be addressed?
+	SPAs oftern struggle with SEO as content is dynamically loaded, making it hard for search engine crawlers to index. Solutions include server-side rendering (SSR), using the History API to update URLs for the different views, and leveraging pre-rendering services or static site generators.

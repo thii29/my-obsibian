@@ -1,6 +1,5 @@
 https://viblo.asia/p/javascript-tu-callbacks-den-promises-va-asyncawait-Do754Jq3ZM6
 https://viblo.asia/p/javascript-xu-ly-bat-dong-bo-callbacks-promises-hay-asyncawait-maGK7OaLKj2
-https://duthanhduoc.com/blog/on-tap-callback-promise-async-await
 https://dev.to/jps27cse/exploring-asynchronous-javascript-callbacks-promises-and-asyncawait-16k6
 - Là một hàm có tham số là một hàm khác được truyền vào (It's a function that has another function passed as a parameter).
 - Được dùng trong xử lý bất đồng bộ, lưu ý callback vẫn có thể đồng bộ (Used in asynchronous processing, note that callbacks can still be synchronous).

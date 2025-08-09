@@ -1,8 +1,8 @@
 **Reference link:** https://200lab.io/blog/huong-dan-su-dung-zustand-trong-nextjs
 **Document: ** https://zustand.docs.pmnd.rs/getting-started/introduction
 ### Zustand là gì? / What is Zustand?
-- Là 1 thư viện quản lý trạng thái nhẹ cho React.
-- Cung cấp 1 API đơn giản, linh hoạt & hiệu suất cao giúp quản lý state dễ dàng mà không cần viết nhiều code phức tạp. (Zustand has a comfy AAPI based on hooks)
+- Là 1 thư viện quản lý trạng thái nhẹ & đơn giản cho React.
+- Cung cấp 1 API đơn giản, linh hoạt & hiệu suất cao giúp quản lý state dễ dàng mà không cần viết nhiều code phức tạp. (Zustand has a comfy API based on hooks)
 
 ### Installation
 `npm install zustand` or `yarn add zustand`
@@ -38,9 +38,9 @@ const HomePage: React.FC = () =>{
 ```
 
 **Vì sao zustand không cần wrap provider như redux hay context**
-- API dựa trên hook: sử dụng hooks để tạo & sử dụng kho trạng thái. Nhờ vào hooks, các thành phần React có thể trực tiếp truy cập & đăng ký với trạng thái cần thiết mà không cần thông quâ Context Provider -> giảm bớt sự phức tạp trong cấu trúc ứng dụng.
+- API dựa trên hook: sử dụng hooks để tạo & sử dụng kho trạng thái. Nhờ vào hooks, các thành phần React có thể trực tiếp truy cập & đăng ký với trạng thái cần thiết mà không cần thông qua **Context Provider** -> giảm bớt sự phức tạp trong cấu trúc ứng dụng.
+- Không sử dụng provider giúp giảm thiểu re-renders không cần thiết->tối ưu hoá hiệu suất & đơn giản hoá luồng dữ liệu trong ứng dụng.
 - Truy cập trực tiếp & tái sử dụng: cho phép các component truy cập trực tiếp đến kho trạng thái mà không cần thông qua provider -> giải thiểu số lượng wrapping không cân thiết & cho phép tái sử dụng các kho trạng thái dễ dàng hơn giữa các thành phần khác nhau.
-- Hiệu suất & đơn giản: không sử dụng provider giúp giảm thiểu re-renders không cần thiết->tối ưu hoá hiệu suất & đơn giản hoá luồng dữ liệu trong ứng dụng.
 - Quản lý trạng thái tập trung: duy trì kho trạng thái tập trung mà tất cả component có thể truy cập-> quản lý trạng thái nhất quán.
 *Vd từ ChatGPT*
 Dưới đây là các ví dụ minh họa cho các điểm bạn yêu cầu:

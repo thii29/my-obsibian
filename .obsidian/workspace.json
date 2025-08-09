@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2246223c4ef90951",
+        "id": "178c311ba7fe024d",
         "type": "tabs",
         "children": [
           {
-            "id": "632b6180c66993d5",
+            "id": "871568699fe95550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X. Review question/Review ReactJs.md",
+                "file": "II. JavaScript/II - 5. Async - await.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Review ReactJs"
+              "title": "II - 5. Async - await"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268
+    "width": 310.01224517822266
   },
   "right": {
     "id": "c0420bcf0c918635",
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IV. NextJs/Airbnb clone/Code flow.md",
+                "file": "X. Review question/Review ReactJs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code flow"
+              "title": "Outline of Review ReactJs"
             }
           }
         ],
@@ -200,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 343
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,52 +214,52 @@
       "cmdr:Toggle pin": false
     }
   },
-  "active": "632b6180c66993d5",
+  "active": "871568699fe95550",
   "lastOpenFiles": [
-    "III. ReactJs/III - 1. Lifecycle & Props.md",
-    "III. ReactJs/III - 2..md",
-    "III. ReactJs/III - 0. React Hooks.md",
-    "X. Review question/Review ReactJs.md",
-    "III. ReactJs/III - 0a. useState.md",
-    "II. JavaScript/II - 3. Callback.md",
-    "II. JavaScript/II - 3a. Event loop.md",
     "II. JavaScript/II - 4. Promise.md",
+    "promise.png.md",
+    "II. JavaScript/II - 3a. Event loop.md",
+    "II. JavaScript/II - 3. Callback.md",
+    "II. JavaScript/II - 5. Async - await.md",
+    "X. Review question/Review ReactJs.md",
+    "III. ReactJs/III - 1. Lifecycle & Props.md",
+    "VI. Data Management Tools/VI - 0. ORM.md",
+    "X. Review question/Review Javascript.md",
+    "X. Review question/Review HTML - CSS.md",
+    "I. HTML - CSS/HTML/I - 0. HTML Data Attribute.md",
     "X. Review question/Review general.md",
-    "V. State management/Zustand.md",
-    "V. State management/TanStack Query (React Query).md",
-    "IV. NextJs/Airbnb clone/Code flow.md",
-    "IV. NextJs/Airbnb clone/flow chart/delete-properties-flow.png",
-    "IV. NextJs/Airbnb clone/flow chart/filter-flow.png.crswap",
-    "IV. NextJs/Airbnb clone/flow chart/filter-flow.png",
-    "III. ReactJs/Shopee Clone.md",
-    "IV. NextJs/Airbnb clone/flow chart/cancel-guest reser-flow.png.crswap",
-    "IV. NextJs/Airbnb clone/flow chart/cancel-guest reser-flow.png",
-    "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png.crswap",
-    "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png",
-    "IV. NextJs/Airbnb clone/flow chart/add:delete favorite-id.png",
-    "IV. NextJs/Airbnb clone/flow chart/booking-flow.png",
-    "IV. NextJs/Airbnb clone/flow chart/add-listings-flow.png",
+    "III. ReactJs/img/project-img/login.png",
+    "III. ReactJs/img/project-img/register.png",
+    "VI. Data Management Tools/Prisma/VI - Prisma.md",
     "III. ReactJs/React-Hook-Form/IIIA - formState.md",
-    "III. ReactJs/React-Hook-Form/IIIA - watch.md",
-    "III. ReactJs/React-Hook-Form/IIIA - reset.md",
-    "III. ReactJs/img/useContext.jpg",
-    "IV. NextJs/NextAuth.Js.md",
-    "IV. NextJs/img/oauth-flow.png",
-    "IV. NextJs/img",
+    "V. State management/Zustand.md",
+    "II. JavaScript/II - 2. Array methods.md",
+    "III. ReactJs/III - 0c. useContext.md",
+    "III. ReactJs/III - 0g. useCallback.md",
+    "III. ReactJs/III - 0h. useMemo.md",
+    "III. ReactJs/III - 0. React Hooks.md",
+    "III. ReactJs/Shopee Clone.md",
+    "III. ReactJs/img/project-img/productsList.png",
+    "III. ReactJs/img/project-img/add-cart.png",
+    "III. ReactJs/img/login.png",
+    "III. ReactJs/img/add-cart.png",
+    "III. ReactJs/img/productsList.png",
+    "III. ReactJs/img/register.png",
     "IV. NextJs/Airbnb clone/flow chart/login-flow.png",
+    "IV. NextJs/Airbnb clone/flow chart/add-listings-flow.png",
+    "IV. NextJs/Airbnb clone/Code flow.md",
+    "IV. NextJs/NextAuth.Js.md",
+    "I. HTML - CSS/CSS/I - 0. CSS Box Model.md",
+    "III. ReactJs/III - 0a. useState.md",
+    "0. General knowledge/0 - 0. Tree shaking.md",
+    "IV. NextJs/Airbnb clone/flow chart/filter-flow.png.crswap",
+    "IV. NextJs/Airbnb clone/flow chart/cancel-guest reser-flow.png.crswap",
+    "IV. NextJs/Airbnb clone/flow chart/cancel-booking-flow.png.crswap",
+    "IV. NextJs/img",
     "IV. NextJs/Airbnb clone/Airbnb-clone model illustrate.canvas",
     "IV. NextJs/Airbnb clone/Untitled.canvas",
     "IV. NextJs/Airbnb clone/flow chart",
-    "III. ReactJs/React-Hook-Form/IIIA - setValue.md",
-    "III. ReactJs/React-Hook-Form/React-Hook-Form.md",
-    "III. ReactJs/React-Hook-Form/IIIA - useForm.md",
-    "III. ReactJs/React-Hook-Form/IIIA - register.md",
-    "III. ReactJs/React-Hook-Form/IIIA - handleSubmit.md",
-    "VI. Data Management Tools/VI - 0. ORM.md",
-    "VI. Data Management Tools/Prisma/VI - Prisma.md",
     "III. ReactJs/React-Hook-Form",
-    "Need to do.md",
-    "0. General knowledge/0 - 3. Module Bundlers.md",
     "V. State management",
     "VI. Data Management Tools/Prisma",
     "VI. Data Management Tools/MongoDB",

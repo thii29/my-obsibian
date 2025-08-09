@@ -3,7 +3,6 @@
 - **pop():** lấy item từ cuối mảng (extracts an item from the end).
 - **shift():** lấy item ở đầu mảng (extracts an item from the beginning).
 - **unshift(...items):** thêm item vào đầu mảng (adds items to the beginning).
-	        ![[shift:push.png]]                            ![[push:pop.png]]
 ```
 //shift & push
 let arr = ['orange', 'banana', 'kiwi']

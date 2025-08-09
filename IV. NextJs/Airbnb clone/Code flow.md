@@ -27,3 +27,6 @@ At page My reservations, click on 'Cancel guest reservation' -> invoke action on
 ## Filter location by condition
 Click on search bar in header menu -> show search modal -> fill full infor -> click on submit-> init current query at the moment -> update currentQuery with these value: location, guestCount, roomCount, bathroomCount, dateRange(after parse to ISO)-> direct to url by route.push. At home page show filter info by getListings(searchParams)
 ![[filter-flow.png]]
+
+## Upload Img
+Use cloudinary cloud

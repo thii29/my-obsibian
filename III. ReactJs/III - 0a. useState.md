@@ -2,7 +2,7 @@ ex: `const [state, setState] = useState(initialState)`
 //initialState có thể bỏ qua và chỉ dùng cho lần đầu
 
 **State**  
-- State of a component is an object that holds some informations, data that can may change over the lifetime of the component. It can keep the data when rendering.
+- The state of a component is an object that holds information and data that may change over the lifetime of the component. It can preserve the data during rendering.
 - Quản lý giá trị trong component. Lưu trữ, dữ lại data khi render
 
 **useState trả về cái gì?**
